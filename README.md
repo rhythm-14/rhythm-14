@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhythm Chakraborty</h1>
 <h3 align="center">video editor, Python developer</h3>
 
-- 🔭 I’m currently working on **Student management**
 
-- 🌱 I’m currently learning **Frontend, Backend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
